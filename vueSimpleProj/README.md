@@ -1,5 +1,5 @@
 # notepad
-
+You can add new tiles, you can see the progress over the bar and you can remove the notes by clicking on them. Just a simple project i created to practise components in Vue js.
 > A Vue.js project
 
 ## Build Setup
